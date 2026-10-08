@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Terms of Use for Magic Pet – Pet Care.">
+  <title>Magic Pet – Terms of Use</title>
+  <style>
+    :root { color-scheme: light; }
+    body { margin: 0; background: #fafaf7; color: #202923; font: 17px/1.7 system-ui, sans-serif; }
+    main { max-width: 780px; margin: auto; padding: 48px 24px 72px; }
+    h1, h2 { line-height: 1.25; }
+    h1 { font-size: 2.2rem; margin-bottom: 12px; }
+    h2 { font-size: 1.35rem; margin-top: 36px; }
+    a { color: #245c42; overflow-wrap: anywhere; }
+    li { margin: 8px 0; }
+    .meta { color: #56635b; }
+    .draft { border: 1px solid #b98527; border-radius: 12px; background: #fff5db; padding: 16px; }
+    footer { border-top: 1px solid #d7ddd7; margin-top: 40px; padding-top: 16px; }
+    @media (max-width: 480px) { main { padding-top: 28px; } h1 { font-size: 1.8rem; } }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <p class="meta">Magic Pet – Pet Care · Android package: com.magicpet.app</p>
+    <h1>Terms of Use</h1>
+    <p class="meta">Last updated: October 8, 2026</p>
+    <p><a href="privacy-policy.html">Privacy Policy</a> · <a href="privacy-policy.html#account-deletion">Account deletion</a></p>
+  </header>
+  <aside class="draft" aria-label="Publication status">
+    <strong>Draft — complete before publication.</strong> Replace the contact email and review the publication checklist.
+    Remove this notice after review.
+  </aside>
+
+  <h2>1. About these terms</h2>
+  <p>These terms cover the Android Magic Pet – Pet Care app operated by Rafael ("we", "us").
+    By using the service, you agree to these terms. If you do not agree, do not use the service.
+    Contact: <strong>TODO(RAFAEL): privacy/support email</strong>.
+    Contact: <a href="mailto:magicpet.support@gmail.com">magicpet.support@gmail.com</a>.
+    Our <a href="privacy-policy.html">Privacy Policy</a> explains how we process information.</p>
+
+  <h2>2. Accounts and responsible use</h2>
+  <p>Keep your account credentials secure, provide accurate information and use only an account you are authorized
+    to use. Contact us if you suspect unauthorized access. Mobile accounts are separate from the existing Magic Pet
+    website; website accounts, pets and subscriptions are not transferred.</p>
+  <p>Do not misuse the service, access another user's private data, bypass access controls or subscription gates,
+    disrupt the service or upload content you have no right to use. Permissions and subscriptions do not authorize
+    illegal activity. AI features are intended for adults aged 18 and over.</p>
+
+  <h2>3. Pet-care information and AI</h2>
+  <p>Magic Pet helps organize pet-care information and offers AI-generated information. AI responses can be incomplete
+    or incorrect. They do not diagnose, provide veterinary treatment or replace a qualified veterinarian.
+    If your pet may need urgent care, contact a veterinarian or emergency clinic directly; do not wait for an app result.</p>
+  <p>AI is provided through Google's Gemini service and requires the consent described in the app when personal
+    data is submitted. Do not send personal, confidential or sensitive information to unpaid AI features. Crop or redact
+    identifying details from images and documents. You can report an answer in the app.</p>
+  <p>Nearby business details and Open Pet Food Facts records come from external sources and may be inaccurate or
+    outdated. Check opening hours with the business and ingredients with the product label. Food lookup does not
+    certify that a product is suitable for your pet; ask your veterinarian when unsure.</p>
+
+  <h2>4. Free access and subscriptions</h2>
+  <p>Saving your first pet starts seven days of free app access without a payment method. This app trial does not
+    create a store subscription and does not automatically charge you. After it expires, continued access requires
+    an active subscription. Purchase, restore, sign-out and account deletion remain available.</p>
+  <p>Available plans, billing periods and localized prices are shown in the app and the Google Play purchase screen.
+    The store purchase screen controls the transaction details. Payment is handled by Google Play; subscriptions
+    renew automatically under the store's terms until you cancel. RevenueCat helps verify and restore access.</p>
+  <p>Manage or cancel in Google Play's subscription settings. Cancellation generally stops the next renewal and
+    access continues until the end of the period already paid for, subject to the store's rules. Uninstalling Magic Pet
+    or deleting your account does not cancel a subscription. Refund requests are handled through Google Play under
+    its policies and your applicable statutory rights. See
+    <a href="https://support.google.com/googleplay/answer/7018481?hl=en">Google Play subscription help</a>.</p>
+  <p>Restore purchases using the appropriate store account. Access may need verification, and temporary store or
+    network failures can delay it. We do not promise a plan, price or promotional offer beyond what is shown at purchase.</p>
+
+  <h2>5. Your content and the community</h2>
+  <p>You retain your rights in content you submit. You give us permission to store, process and display it as needed
+    to provide the features you request, including displaying forum content to other signed-in users and processing
+    selected inputs through AI providers as described in the Privacy Policy.</p>
+  <p>Forum posts and comments show your selected pet identity. Do not post private information about yourself or
+    others that you do not want shared. Harassment, threats, hate, spam, sexual or violent content and cruelty to
+    animals are prohibited. You must have the necessary rights to any photo or text you share.</p>
+  <p>Use the reporting and blocking tools for abusive content. Moderators may remove content and restrict or close
+    accounts that violate the community rules, with notice or an opportunity to contact support where appropriate.
+    The forum is not an emergency or veterinary support service.</p>
+
+  <h2>6. Deletion and ending use</h2>
+  <p>You can delete your account through Settings or request deletion by email without reinstalling the app.
+    See the <a href="privacy-policy.html#account-deletion">account and data deletion section</a> for the request
+    instructions, affected records and retention exceptions. Cancel any store subscription separately.</p>
+  <p>We may restrict access when necessary to address abuse, security risks, legal requirements or violations of these
+    terms. Where appropriate, we explain the reason and you may contact support. This does not remove statutory
+    refund or consumer rights.</p>
+
+  <h2>7. Availability and responsibility</h2>
+  <p>The app and external services may be interrupted or changed. Keep copies of records you need for veterinary
+    care and check that reminders are enabled and delivered on your device. Magic Pet does not guarantee that every
+    notification or AI response will arrive at a particular time.</p>
+  <p>To the extent permitted by applicable law, we do not guarantee the accuracy or uninterrupted availability of AI
+    output or third-party information. Nothing in these terms excludes or limits liability that cannot lawfully be
+    excluded or limits your mandatory consumer rights. We remain responsible to the extent required by applicable law.</p>
+
+  <h2>8. Changes, consumer rights and contact</h2>
+  <p>We may update these terms as the service changes. We update the date and provide additional notice or request
+    agreement where required. Changes to store subscriptions follow the store's rules. Your mandatory local consumer
+    protections and rights to seek remedies through competent courts or authorities remain available.</p>
+  <footer><p>Operator: Rafael · Support: <strong>TODO(RAFAEL): privacy/support email</strong></p></footer>
+  <footer><p>Operator: Rafael · Support: <a href="mailto:magicpet.support@gmail.com">magicpet.support@gmail.com</a></p></footer>
+</main>
+</body>
+</html>
